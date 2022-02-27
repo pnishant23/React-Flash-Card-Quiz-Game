@@ -1,6 +1,6 @@
 import React, {useState,useEffect, useRef} from "react";
-import FlashCardList from "./components/FlashCardList";
-import "./style.css";
+import FlashCardList from "./FlashCardList";
+import "../style.css";
 import 'axios'
 import axios from "axios";
 import { FaGithubAlt } from 'react-icons/fa'
